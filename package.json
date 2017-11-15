@@ -1,0 +1,10 @@
+{
+  "name": "code-golf-2017-fall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bencooper222/code-golf-2017-fall.git",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}

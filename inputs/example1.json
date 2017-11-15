@@ -1,0 +1,67 @@
+{
+    "devices": [
+        {
+            "type": "laptop",
+            "color": "gold",
+            "model": "SurfaceBook"
+        },
+        {
+            "type": "phone",
+            "color": "space gray",
+            "model": "iPhone 8"
+        },
+        {
+            "type": "phone",
+            "color": "black",
+            "model": "Samsung Galaxy S8"
+        },
+        {
+            "type": "laptop",
+            "color": "gray",
+            "model": "Google Pixelbook"
+        },
+        {
+            "type": "laptop",
+            "color": "white",
+            "model": "Apple 2015 Macbook Pro"
+        },
+        {
+            "type": "phone",
+            "color": "very blue",
+            "model": "Google Pixel"
+        },
+        {
+            "type": "laptop",
+            "color": "gray",
+            "model": "ASUS UX303LB"
+        },
+        {
+            "type": "phone",
+            "color": "panda",
+            "model": "Google Pixel 2 XL"
+        },
+        {
+            "type": "phablet",
+            "color": "blue",
+            "model": "Samsung Galaxy Note 7"
+        }
+    ],
+    "bans": [
+        {
+            "key": "color",
+            "value": "gold"
+        },
+        {
+            "key": "type",
+            "value": "phablet"
+        },
+        {
+            "key": "color",
+            "value": "gray"
+        },
+        {
+            "key": "model",
+            "value": "Samsung Galaxy Note 7"
+        }
+    ]
+}
